@@ -1,0 +1,59 @@
+Lab #8 - Huffman Codes
+
+Very good.  
+
+Score:	26/ 25 = %
+
+Correctness:
+	15+1/ 15 
+
+Tabs & Newlines				
+  	  										Passes
+  	Test Name:								Y	N
+  	-----------------------------------------------
+  	TestTabChar								X
+  	TestNewLineChar							X
+    
+"F" Correctness
+  	  										Passes
+  	Test Name:								Y	N
+  	-----------------------------------------------
+  	Sample Input 1							X
+  	FrequencyCountsOneOfEachChar			X
+  	FrequencyCountsSequenceOfChars			X
+  	FrequencyCountsRandomChars				X
+  	
+"T" Correctness
+  	  										Passes
+  	Test Name:								Y	N
+  	-----------------------------------------------
+  	Sample Input 2							X 	
+  	TreeNodesOneOfEachChar					X
+  	TreeNodesSequenceOfChars				X
+  	TreeNodesRandomChars					X
+  	
+"H" Correctness
+  	  										Passes
+  	Test Name:								Y	N
+  	-----------------------------------------------
+  	Sample Input 3							X 	 	
+  	HuffmanCodesOneOfEachChar				X
+  	HuffmanCodesSequenceOfChars				X
+  	HuffmanCodesRandomChars					X
+  	
+"M" Correctness
+  	  										Passes
+  	Test Name:								Y	N
+  	-----------------------------------------------
+  	Sample Input 4							X 	
+  	CodedTextOneOfEachChar					X
+  	CodedTextSequenceOfChars				X
+  	CodedTextRandomChars					X  	
+  	
+
+3  / 3	-	Code Quality
+
+3  / 3	-	Documentation/Readability
+
+3  / 3	-	Testing Quality
+
