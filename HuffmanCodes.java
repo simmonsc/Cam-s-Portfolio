@@ -11,7 +11,6 @@ import lab08.CS232LinkedBinaryTree.BTNode;
  * Problem URL: http://users.dickinson.edu/~hugginsk/courses/2017_spring/cs232s17/labs/lab08.html
  * 
  * @author Cameron Simmons
- * @author Xuanhe Xu
  * @version 04/11/2017
  *
  */
